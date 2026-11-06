@@ -218,3 +218,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data, weights and outputs
+data/
+results/
+pretrained/
+checkpoints/
+*.joblib
+*.parquet
+*.sas7bdat
+*.csv
+*.pt
+*.pth
+
+# Virtual environments & uv
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
