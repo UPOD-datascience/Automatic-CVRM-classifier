@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or models in your work, please cite it as below."
+title: "Automatic-CVRM-classifier"
+abstract: "Automatic Cardiovascular Risk Management (CVRM) classification using Electronic Health Records (EHR) and deep learning."
+authors:
+  - family-names: "Vitale"
+    given-names: "Jacopo"
+repository-code: "https://github.com/UPOD-datascience/Automatic-CVRM-classifier"
+url: "https://github.com/UPOD-datascience/Automatic-CVRM-classifier"
+date-released: "2026-11-06"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Vitale"
+      given-names: "Jacopo"
+  title: "Automatic Cardiac Risk Management Classification using large-context Electronic Patients Health Records"
+  journal: "arXiv preprint arXiv:2603.09685"
+  year: 2026
+  url: "https://arxiv.org/abs/2603.09685"
